@@ -1,2 +1,2 @@
 # Amazon.in
-Amazon site fontend.
+Amazon site fontend(only Html and css).
